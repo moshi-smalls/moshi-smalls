@@ -1,4 +1,4 @@
-- YOYO, I mean good evening and shit. I'm Moshi or moshi_smalls. I like reading, and music. 
+- YOYO, I mean good evening and shit. I'm moshi_smalls
 
 <!---
 moshi-smalls/moshi-smalls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
